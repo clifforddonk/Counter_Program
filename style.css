@@ -1,0 +1,21 @@
+.label{
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10em;
+    text-align: center;
+}
+.btncont{
+    text-align: center;
+}
+.btn{
+    padding: 8px;
+    background-color: rgb(130, 93, 176);
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.btn:hover{
+    background-color: rgb(31, 56, 137);
+}
+
